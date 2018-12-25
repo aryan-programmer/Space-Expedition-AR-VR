@@ -1,0 +1,58 @@
+<QC>
+Using Namespace UnityEngine
+Using Namespace Utilities.Extensions
+
+Public <Class> FlashTextDisplay : MonoBehaviour
+	[SerializeField] Float roamTime = 140, flashTextDisplayTime = 30
+	[SerializeField] GameObject movementDisabler
+	[SerializeField] TMPro.TextMeshProUGUI textMesh
+	[SerializeField] String flashTextTextFile = `Texts\flashText`, textFormat = `[|size=1.25em|][|b|]{0}[|/b|][|/size|]{1}`
+
+	Private String[] flashTexts
+
+	Public <Property> FlashTexts Of String[]
+		<Get>
+			Give flashTexts ?? ( flashTexts = Resources.Load[[TextAsset]]( flashTextTextFile ).text.Split( '\n' ) )
+		</>
+	</>
+
+	Utilities.Timers.TimerWithExtraWaiting flashTextDisplayTimer
+
+	Private <Function> Start( )
+		textMesh.enabled = False
+		flashTextDisplayTimer = _
+			New Utilities.Timers.TimerWithExtraWaiting( _
+				roamTime , ShowTextAndWait , _
+				Delegate ( ) _
+				{ movementDisabler.SetActive( !( textMesh.enabled = false ) ) 
+				} )
+		flashTextDisplayTimer.Start()
+	</>
+
+	Private <Function> ShowTextAndWait( ) Gives Float
+		movementDisabler.SetActive( !( textMesh.enabled = true ) )
+		String _
+			full = FlashTexts.GetRandomElement(), _
+			firstLetter = full.Substring( 0 , 1 ).ToUpper(), _
+			rest = full.Remove( 0 , 1 )
+		Speaker.Speak( _
+			textMesh.text = String.Format( textFormat , firstLetter , rest ) )
+		Give flashTextDisplayTime
+	</>
+
+	Private <Function> OnDisable( )
+		textMesh.enabled = false
+		<If> flashTextDisplayTimer != null
+			flashTextDisplayTimer.Stopped = True
+		</>
+	</>
+
+	Private <Function> OnEnable( )
+		textMesh.enabled = false
+		<If> flashTextDisplayTimer != null
+			flashTextDisplayTimer.Stopped = False
+			flashTextDisplayTimer.Start()
+		</>
+	</>
+</>
+</>

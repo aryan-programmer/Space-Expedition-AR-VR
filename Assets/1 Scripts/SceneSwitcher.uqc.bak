@@ -1,0 +1,24 @@
+<QC>
+Public <Class> SceneSwitcher Inherits UnityEngine.MonoBehaviour
+	Public <Enum> SceneType 
+		VR, ARVR _
+	</>
+	Public Static <Property> TypeOfScene Of SceneType
+		Get
+		Private Set
+	</>
+
+	Public <Function> SwitchSceneVR( )
+		TypeOfScene = SceneType.VR
+		SwitchScene()
+	</>
+	Public <Function> SwitchSceneARVR( )
+		TypeOfScene = SceneType.ARVR
+		SwitchScene()
+	</>
+
+	<Function> SwitchScene( ) 
+		UnityEngine.SceneManagement.SceneManager.LoadScene( 1 )
+	</>
+</>
+</>

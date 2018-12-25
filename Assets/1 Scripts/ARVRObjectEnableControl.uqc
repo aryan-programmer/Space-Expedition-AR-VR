@@ -1,0 +1,8 @@
+<QC>
+Public <Class> ARVRObjectEnableControl Inherits UnityEngine.MonoBehaviour
+	[UnityEngine.SerializeField] Bool enableWhenARVR
+	<Function> Start( )
+		gameObject.SetActive( !( ( SceneSwitcher.TypeOfScene == SceneSwitcher.SceneType.ARVR ) ^ enableWhenARVR ) )
+	</>
+</>
+</>

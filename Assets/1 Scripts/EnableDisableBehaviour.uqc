@@ -1,0 +1,23 @@
+<QC>
+Using Namespace UnityEngine
+Using Namespace System.Collections.Generic
+
+Public <Class> EnableDisableBehaviour Inherits MonoBehaviour
+	[SerializeField] GameObject @object
+	[SerializeField] String type
+	Behaviour m_Behaviour
+	
+	Public <Property> OBehaviour Of Behaviour
+		<Get>
+			Give m_Behaviour ?? ( m_Behaviour = @object.GetComponent( type ) as Behaviour )
+		</>
+	</>
+	
+	Public <Function> OnDisable( )
+		OBehaviour.enabled = False
+	</>
+	Public <Function> OnEnable( ) 
+		OBehaviour.enabled = True
+	</>
+</>
+</>

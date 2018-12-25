@@ -1,0 +1,53 @@
+BEGIN_VALUES = "qc" --file
+ENDING_FLAGS = --language CS
+
+CheckSeparateAllChildren.cs: CheckSeparateAllChildren.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+EnableDisableBehaviour.cs: EnableDisableBehaviour.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+FlashTextDisplay.cs: FlashTextDisplay.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+IShip.cs: IShip.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+KeyWordRecognizer.cs: KeyWordRecognizer.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+LookAtCamera.cs: LookAtCamera.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+MoveCamera.cs: MoveCamera.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+PortalSpinner.cs: PortalSpinner.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+RandomizeEffectPositions.cs: RandomizeEffectPositions.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+RotateAroundTransform.cs: RotateAroundTransform.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+Ship.cs: Ship.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+ShipMover.cs: ShipMover.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+ShipPiece.cs: ShipPiece.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+Spinner.cs: Spinner.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+VirtualButton.cs: VirtualButton.qc
+	$(BEGIN_VALUES) $< $(ENDING_FLAGS)
+
+all: CheckSeparateAllChildren.cs, EnableDisableBehaviour.cs, FlashTextDisplay.cs, IShip.cs, KeyWordRecognizer.cs, LookAtCamera.cs, MoveCamera.cs, PortalSpinner.cs, RandomizeEffectPositions.cs, RotateAroundTransform.cs, Ship.cs, ShipMover.cs, ShipPiece.cs, Spinner.cs, VirtualButton.cs
+	echo "All done."
+
+clean: 
+	del CheckSeparateAllChildren.cs EnableDisableBehaviour.cs FlashTextDisplay.cs IShip.cs KeyWordRecognizer.cs LookAtCamera.cs MoveCamera.cs PortalSpinner.cs RandomizeEffectPositions.cs RotateAroundTransform.cs Ship.cs ShipMover.cs ShipPiece.cs Spinner.cs VirtualButton.cs

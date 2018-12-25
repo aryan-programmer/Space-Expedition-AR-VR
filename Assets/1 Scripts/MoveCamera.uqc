@@ -1,0 +1,12 @@
+<QC>
+Using UnityEngine
+
+Public <Class> MoveCamera Inherits MonoBehaviour
+	[SerializeField] Float speed = 1
+	[SerializeField] GameObject @object
+
+	Private <Function> Update( )
+		transform.Translate( @object.transform.forward * speed * Time.deltaTime , Space.World )
+	</>
+</>
+</>

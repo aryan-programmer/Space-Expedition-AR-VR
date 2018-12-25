@@ -1,0 +1,7 @@
+<QC>
+Public <Class> LookAtCamera Inherits UnityEngine.MonoBehaviour
+	<Function> Update( ) 
+		transform.LookAt( UnityEngine.Camera.main.transform )
+	</>
+</>
+</>

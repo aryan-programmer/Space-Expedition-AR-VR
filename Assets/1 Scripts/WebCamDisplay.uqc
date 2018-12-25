@@ -1,0 +1,23 @@
+<QC>
+Using Namespace UnityEngine
+
+Public <Class> WebCamDisplay Inherits MonoBehaviour
+#pragma warning disable 0649 _
+	[SerializeField] Single scale = 100f
+#pragma warning restore 0649 _
+	Private Static WebCamTexture webCamTexture = Null
+
+	<Function> Start( )
+		<If> webCamTexture Equals Null
+			webCamTexture = New WebCamTexture( WebCamTexture.devices[ 0 ].name )
+		</>
+		GetComponent[[Renderer]]().material.mainTexture = webCamTexture
+		webCamTexture.Play()
+		transform.localScale = New Vector3( webCamTexture.width / ( Float ) ( webCamTexture.height ) , 1 , -1 ) * scale
+		transform.localPosition = New Vector3( 0 , 0 , scale * 5.4825f  )
+		<If> Application.isMobilePlatform
+			transform.localScale = New Vector3( -transform.localScale.x , transform.localScale.y , transform.localScale.z )
+		</>
+	</>
+</>
+</>

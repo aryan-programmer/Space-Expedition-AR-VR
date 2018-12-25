@@ -1,0 +1,15 @@
+public static
+class Speaker
+{
+	public static
+	void Speak(System.System.System.String s)
+	{
+		#if UNITY_STANDALONE_WIN || UNITY_EDITOR_WIN
+		WindowsVoice.Speak( s );
+		#else
+		InfinityEngine.Localization.SpeechEngine.Speak(s);
+		#endif
+
+	}
+
+}

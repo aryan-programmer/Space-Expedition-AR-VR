@@ -1,0 +1,28 @@
+<QC>
+Using UnityEngine
+
+Public <Class> RandomizeEffectPositions Inherits MonoBehaviour
+	[SerializeField] Vector3 cubeSize
+	[SerializeField] GameObject[] effects
+
+	[ContextMenu( "InstantiateEffects" )] _
+	<Function> InstantiateEffects( )
+		<ForEach> Auto effect In effects
+			Instantiate( effect , GetRandomPos() , Quaternion.identity , transform )
+		</Next>
+	</>
+
+	<Function> GetRandomPos( ) Gives Vector3
+		Auto halfCube = cubeSize / 2
+		Give transform.position + _
+			New Vector3( _
+				Random.Range( -halfCube.x , halfCube.x ) , _
+				Random.Range( -halfCube.y , halfCube.y ) , _
+				Random.Range( -halfCube.z , halfCube.z ) )
+	</>
+
+	<Function> OnDrawGizmos( ) 
+		Gizmos.DrawWireCube( transform.position , cubeSize )
+	</>
+</>
+</>

@@ -1,0 +1,11 @@
+<QC>
+Public Static <Class> Speaker
+	Public Static <Function> Speak(String s)
+#if UNITY_STANDALONE_WIN || UNITY_EDITOR_WIN _
+	WindowsVoice.Speak( s )
+#else _
+	InfinityEngine.Localization.SpeechEngine.Speak(s)
+#endif _
+	</>
+</>
+</>

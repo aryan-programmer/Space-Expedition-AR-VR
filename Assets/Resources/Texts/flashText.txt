@@ -1,0 +1,60 @@
+Black Hole is a collapsed old star with such dense mass that even electromagnetic radiation cannot escape.
+Singularity is a mathematical point of infinite density with zero radius inside a black hole.
+Event horizon of a black hole separates it from the rest of the universe. Once this point is crossed nothing can escape the inward gravitational pull of the old collapsed star.
+The distance from a black hole singularity to the point where nothing can escape a black hole (its event horizon) is the Schwarzschild radius.
+Non-rotating black hole is called a Schwarzschild black hole.
+Rotating black hole is called a Kerr or Hawking black hole.
+Successful technique for finding candidates for black holes in our galaxy is detection of x-rays from a binary star undergoing mass exchange, where mass of component star can be determined.
+Beside rotating and nonrotating black holes there are no other types are known to exist.
+We detect black hole candidates by the x-rays they emit even if nothing can escape from a it because The x-rays come from the highly compressed accretion disk just outside the event horizon.
+You can never know what type of material is inside a black hole.
+Accretion disk is an orbiting disk of matter spiraling in towards a black hole.
+In terms of black holes a wormhole is a hypothetical direct connection from one black hole to another part of spacetime.
+Virtual particle is a particle and its anti-particle are created simultaneously in pairs and then are annihilated so quickly that we cannot even know that they ever existed.
+Because most of our galaxy is hidden behind dense gas and dust clouds in the galactic plane it makes the study of the structure of our own Galaxy more difficult than that of much more distant spiral galaxies.
+The Milky Way Galaxy is just one of many billion of galaxies in the universe.
+The Milky Way in which the Sun resides is an example of a spiral galaxy.
+Object Sagittarius A* ("Sagittarius A-star") appears to be the actual nucleus of the Galaxy.
+Much of the mass of our Galaxy appears to be in the form of "dark" matter of unknown composition. At present this matter can be detected only because its gravitational pull affects orbital motions in the Galaxy.
+Edwin Hubble developed the classification system that divides galaxies into spiral elliptical and irregular and classifies spirals by the size of their nuclear region and the tightness of winding of their arms.
+Clusters of galaxies exist that are themselves often clustered into superclusters. Clusters and superclusters appear to be distributed on surfaces surrounding empty regions of space.
+In discussing galaxies & the universe, astronomers often talk about "voids" which are volumes of space hundreds of millions of light-years across that contain almost no galaxies.
+Cluster of about 40 galaxies of which the Milky Way is a member of the Local Group.
+Single major problem for the astronomers for interpreting the properties and behavior of clusters of galaxies is the missing-mass problem.
+The missing-mass problem is a problem where the amount of mass needed for galactic cluster stability is estimated to be at least 10 times more than the observed visible mass.
+Edwin Hubble first showed that the recessional speeds of galaxies increase with increasing distance from the Earth.
+Primary evidence for the expanding universe concept is the redshift of light from distant galaxies which increases with distance of the galaxy from the Earth.
+Energy output of a typical quasar per second is equal to that emitted by the Sun in 200 years.
+Most outstanding feature of a quasar compared to other objects in deep space is its prodigious output of energy.
+Quasars in our universe are relatively common with over 20000 identified so far.
+Quasars all appear to be moving away from us at very high speeds up to about 90% of the speed of light.
+In 2004 a blazar of 10 billion solar masses was discovered at a distance of 12.5 billion light years, which must have been formed very early in the history of the universe, too early presumably to have that much mass concentrated.
+Albert Einstein discovered that the equations he had derived predicted an expanding universe then modified his equations to eliminate this expansion.
+In the expansion of the universe the expansion takes place primarily in the huge spaces between clusters of galaxies; "small" objects like galaxies or the Earth do not expand.
+Mutual gravitational attraction between objects in localized regions of space such as things on the Earth planetary systems star clusters and whole galaxies from participating in the general expansion of the universe.
+Cosmic background radiation is a low-intensity radio noise with a 3 K blackbody temperature almost uniform in intensity in all directions.
+Range of the electromagnetic force in vacuum, i.e. the maximum distance over which it acts, is Infinity
+There are 4 fundamental forces are the strong, weak, electromagnetic and gravitational forces.
+Our view of the universe is a limited one because of the fundamental fact that light from objects farther away than a certain distance defined by the travel time of light in the lifetime of the universe has not yet reached us.
+Difference between dark matter and dark energy is that dark matter is attractive and slows the universal expansion whereas dark energy is repulsive and accelerates the universal expansion.
+Apparent magnitude of a star is the brightness of the star as seen from Earth.
+Space between stars contains gas both atomic and molecular and dust.
+Luminosity classes (I II III IV or V) are most closely related to a star's radius.
+Most likely places in which stars and planetary systems are forming in the universe are nebulae composed of gas and dust.
+complex molecules such as formaldehyde (H<sub>2</sub>CO) been detected in interstellar clouds by molecular emission lines.
+New stars are formed from huge cool dust and gas clouds.
+Star formation takes place in giant molecular clouds.
+Most abundant element in the universe is Hydrogen.
+Luminosity of a star is its total energy output into all space per second measured in Watts.
+~90% of the stars surrounding the Sun are main-sequence stars.
+Massive stars normally end their lives by blowing up.
+Mass of a star governs its lifetime.
+An interstellar nebulae composed of gases and dust is the most likely place where new stars and planetary systems are forming.
+Protostar is a sphere of gas after collapse from an interstellar cloud but before nuclear reactions have begun
+Accretion of matter in an interstellar leads to a protostar.
+Luminosity class of a star (I II III IV or V) is most closely related the radius of the star.
+Star Proxima Centauri our Sun's nearest star neighbor is at a distance of about 4.2 light years away.
+Proxima Centauri is a tiny Red Dwarf class star with only 10% of our Sun's mass and 0.006% of its luminosity. It is 3rd member of the Alpha Centauri triple star system.)
+OOrion Nebula is a large interstellar gas and dust cloud containing young stars.
+When any star on the main sequence was a protostar it was larger and cooler.
+Crab Nebula is a nearby remnant of a supernova explosion.

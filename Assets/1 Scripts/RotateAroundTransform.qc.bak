@@ -1,0 +1,22 @@
+<QC>
+Using UnityEngine
+
+Public <Class> RotateAroundTransform : MonoBehaviour
+	[System.Serializable] _
+	<Structure> TransformRotationAndSpeed
+		Public String id
+		[SerializeField] Internal Transform transform
+		[SerializeField] Internal Vector3 rotation_axis
+		[SerializeField] Internal Float speed
+	</>
+
+	[SerializeField] TransformRotationAndSpeed[] transformsWithRotationAxesAndSpeeds
+
+	<Function> Update( )
+		<For> NewVar i = 0 To transformsWithRotationAxesAndSpeeds.Length - 1
+			Var curr = transformsWithRotationAxesAndSpeeds[ i ]
+			curr.transform.RotateAround( transform.position , curr.rotation_axis , curr.speed )
+		</Next>
+	</>
+</>
+</>
