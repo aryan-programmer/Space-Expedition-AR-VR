@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 81a2fe14cedfe444e84f8c898dcbc29b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Donut002
+    100002: earth
+    100004: earth/ice
+    100006: earth/water
+    100008: Earth002
+    100010: Earth1
+    100012: Fantasy
+    100014: Group001
+    100016: hermes
+    100018: Jupiter
+    100020: mars
+    100022: moon
+    100024: neptune
+    100026: //RootNode
+    100028: pluton
+    100030: Saturn
+    100032: saturn
+    100034: Sphere001
+    100036: sun
+    100038: Twins
+    100040: Uranus
+    400000: Donut002
+    400002: earth
+    400004: earth/ice
+    400006: earth/water
+    400008: Earth002
+    400010: Earth1
+    400012: Fantasy
+    400014: Group001
+    400016: hermes
+    400018: Jupiter
+    400020: mars
+    400022: moon
+    400024: neptune
+    400026: //RootNode
+    400028: pluton
+    400030: Saturn
+    400032: saturn
+    400034: Sphere001
+    400036: sun
+    400038: Twins
+    400040: Uranus
+    2100000: 'Material #88'
+    2100002: 'Material #98'
+    2100004: 'Material #84'
+    2100006: 'Material #86'
+    2100008: 'Material #96'
+    2100010: 'Material #91'
+    2100012: 'Material #87'
+    2100014: 'Material #92'
+    2100016: 'Material #85'
+    2100018: 'Material #94'
+    2100020: 'Material #95'
+    2100022: 'Material #53'
+    2100024: 'Material #58'
+    2100026: No Name
+    2100028: 'Material #83'
+    2300000: Donut002
+    2300002: earth
+    2300004: earth/ice
+    2300006: earth/water
+    2300008: Earth002
+    2300010: Earth1
+    2300012: Fantasy
+    2300014: hermes
+    2300016: Jupiter
+    2300018: mars
+    2300020: moon
+    2300022: neptune
+    2300024: pluton
+    2300026: saturn
+    2300028: Sphere001
+    2300030: sun
+    2300032: Uranus
+    3300000: Donut002
+    3300002: earth
+    3300004: earth/ice
+    3300006: earth/water
+    3300008: Earth002
+    3300010: Earth1
+    3300012: Fantasy
+    3300014: hermes
+    3300016: Jupiter
+    3300018: mars
+    3300020: moon
+    3300022: neptune
+    3300024: pluton
+    3300026: saturn
+    3300028: Sphere001
+    3300030: sun
+    3300032: Uranus
+    4300000: sun
+    4300002: hermes
+    4300004: mars
+    4300006: neptune
+    4300008: pluton
+    4300010: Uranus
+    4300012: saturn
+    4300014: Donut002
+    4300016: Jupiter
+    4300018: moon
+    4300020: Sphere001
+    4300022: Fantasy
+    4300024: earth
+    4300026: earth/ice
+    4300028: earth/water
+    4300030: Earth1
+    4300032: Earth002
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

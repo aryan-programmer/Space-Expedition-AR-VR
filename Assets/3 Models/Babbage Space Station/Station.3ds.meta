@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 5e6c81c1291f1e84c8d73dcbdb8e8522
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Part_1
+    100002: Stati
+    100004: Stati1
+    100006: Stati2
+    100008: Stati3
+    100010: Stati4
+    100012: Stati5
+    100014: Stati6
+    100016: Stati7
+    100018: Station
+    100020: //RootNode
+    100022: TooBig0
+    100024: TooBig1
+    100026: TooBig2
+    400000: Part_1
+    400002: Stati
+    400004: Stati1
+    400006: Stati2
+    400008: Stati3
+    400010: Stati4
+    400012: Stati5
+    400014: Stati6
+    400016: Stati7
+    400018: //RootNode
+    400020: Station
+    400022: TooBig0
+    400024: TooBig1
+    400026: TooBig2
+    2100000: Reactor End
+    2100002: Power Fin Coole
+    2100004: Hanger Rings Or
+    2100006: Default
+    2100008: Brace Lower
+    2100010: Bow Tie Block
+    2100012: Arm Strut Block
+    2100014: Arm Hex Bars
+    2100016: Arm End Plates
+    2100018: Arm Blue
+    2300000: Part_1
+    2300002: Stati
+    2300004: Stati1
+    2300006: Stati2
+    2300008: Stati3
+    2300010: Stati4
+    2300012: Stati5
+    2300014: Stati6
+    2300016: Stati7
+    2300018: Station
+    2300020: //RootNode
+    2300022: TooBig0
+    2300024: TooBig1
+    2300026: TooBig2
+    3300000: Part_1
+    3300002: Stati
+    3300004: Stati1
+    3300006: Stati2
+    3300008: Stati3
+    3300010: Stati4
+    3300012: Stati5
+    3300014: Stati6
+    3300016: Stati7
+    3300018: Station
+    3300020: //RootNode
+    3300022: TooBig0
+    3300024: TooBig1
+    3300026: TooBig2
+    4300000: Stati8
+    4300002: Part_1
+    4300004: Station
+    4300006: Stati4
+    4300008: Stati5
+    4300010: Stati2
+    4300012: Stati3
+    4300014: Stati
+    4300016: Stati1
+    4300018: Stati6
+    4300020: TooBig0
+    4300022: TooBig1
+    4300024: Stati7
+    4300026: TooBig2
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

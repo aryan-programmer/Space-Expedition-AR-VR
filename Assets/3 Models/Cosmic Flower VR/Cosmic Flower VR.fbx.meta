@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: dafca61aac4cc78458e6f2711cf94e7e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _01
+    100002: _010
+    100004: _011
+    100006: _012
+    100008: _013
+    100010: _014
+    100012: _015
+    100014: _016
+    100016: _017
+    100018: _018
+    100020: _02
+    100022: _03
+    100024: _04
+    100026: _05
+    100028: _06
+    100030: _07
+    100032: _08
+    100034: _09
+    100036: _10
+    100038: _11
+    100040: _12
+    100042: _13
+    100044: _14
+    100046: _15
+    100048: _16
+    100050: _17
+    100052: _21
+    100054: _22
+    100056: _23
+    100058: _24
+    100060: _25
+    100062: _26
+    100064: _27
+    100066: _28
+    100068: //RootNode
+    100070: pointLight1
+    100072: pointLight2
+    100074: pSphere1
+    400000: _01
+    400002: _010
+    400004: _011
+    400006: _012
+    400008: _013
+    400010: _014
+    400012: _015
+    400014: _016
+    400016: _017
+    400018: _018
+    400020: _02
+    400022: _03
+    400024: _04
+    400026: _05
+    400028: _06
+    400030: _07
+    400032: _08
+    400034: _09
+    400036: _10
+    400038: _11
+    400040: _12
+    400042: _13
+    400044: _14
+    400046: _15
+    400048: _16
+    400050: _17
+    400052: _21
+    400054: _22
+    400056: _23
+    400058: _24
+    400060: _25
+    400062: _26
+    400064: _27
+    400066: _28
+    400068: //RootNode
+    400070: pointLight1
+    400072: pointLight2
+    400074: pSphere1
+    2100000: m01
+    2100002: m02
+    2100004: m03
+    2100006: m04
+    2100008: m05
+    2100010: m06b
+    2100012: m07
+    2100014: m08
+    2100016: m09
+    2100018: m10b
+    2100020: m11
+    2100022: m12
+    2100024: m13
+    2100026: m14
+    2100028: m15
+    2100030: m16
+    2100032: m17
+    2100034: lambert24
+    2300000: _01
+    2300002: _010
+    2300004: _011
+    2300006: _012
+    2300008: _013
+    2300010: _014
+    2300012: _015
+    2300014: _016
+    2300016: _017
+    2300018: _018
+    2300020: _02
+    2300022: _03
+    2300024: _04
+    2300026: _05
+    2300028: _06
+    2300030: _07
+    2300032: _08
+    2300034: _09
+    2300036: _10
+    2300038: _11
+    2300040: _12
+    2300042: _13
+    2300044: _14
+    2300046: _15
+    2300048: _16
+    2300050: _17
+    2300052: _21
+    2300054: _22
+    2300056: _23
+    2300058: _24
+    2300060: _25
+    2300062: _26
+    2300064: _27
+    2300066: _28
+    2300068: pSphere1
+    3300000: _01
+    3300002: _010
+    3300004: _011
+    3300006: _012
+    3300008: _013
+    3300010: _014
+    3300012: _015
+    3300014: _016
+    3300016: _017
+    3300018: _018
+    3300020: _02
+    3300022: _03
+    3300024: _04
+    3300026: _05
+    3300028: _06
+    3300030: _07
+    3300032: _08
+    3300034: _09
+    3300036: _10
+    3300038: _11
+    3300040: _12
+    3300042: _13
+    3300044: _14
+    3300046: _15
+    3300048: _16
+    3300050: _17
+    3300052: _21
+    3300054: _22
+    3300056: _23
+    3300058: _24
+    3300060: _25
+    3300062: _26
+    3300064: _27
+    3300066: _28
+    3300068: pSphere1
+    4300000: _01
+    4300002: _02
+    4300004: _03
+    4300006: _04
+    4300008: _05
+    4300010: _06
+    4300012: _07
+    4300014: _08
+    4300016: _09
+    4300018: _10
+    4300020: _11
+    4300022: _12
+    4300024: _13
+    4300026: _14
+    4300028: _15
+    4300030: _16
+    4300032: _17
+    4300034: pSphere1
+    4300036: _21
+    4300038: _22
+    4300040: _23
+    4300042: _24
+    4300044: _010
+    4300046: _011
+    4300048: _25
+    4300050: _012
+    4300052: _26
+    4300054: _013
+    4300056: _014
+    4300058: _015
+    4300060: _016
+    4300062: _017
+    4300064: _018
+    4300066: _27
+    4300068: _28
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: pointLight1
+    10800002: pointLight2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert24
+    second: {fileID: 2100000, guid: 6276c7f6df18f344d81094f5d040a0ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m01
+    second: {fileID: 2100000, guid: e7367bbaa33d191429144fe81959c5b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m02
+    second: {fileID: 2100000, guid: c67d29c85b52abb4aaad50bd7794f5aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m03
+    second: {fileID: 2100000, guid: 069d25d2c81ab874aa32feab4df13dd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m04
+    second: {fileID: 2100000, guid: c4cb04c396da1c245949488787b53af8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m05
+    second: {fileID: 2100000, guid: 1d11b09dd0ca5e44685fa615112072d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m06b
+    second: {fileID: 2100000, guid: 77249fcba50a703449461764d5c9d97f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m07
+    second: {fileID: 2100000, guid: a7d58db784e5f64408a6e7c6af52dec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m08
+    second: {fileID: 2100000, guid: ddd2de771d2a5c043b0a8a0d32ec0282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m09
+    second: {fileID: 2100000, guid: 83d223e3c6ba4ef48a9272b4b7828c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m10b
+    second: {fileID: 2100000, guid: 630c693108866ad4b912b3caefafa7ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m11
+    second: {fileID: 2100000, guid: de8366b1007a8214dad81263836e5ff6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m12
+    second: {fileID: 2100000, guid: 36a2adeb6abb46e4db292257115e571f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m13
+    second: {fileID: 2100000, guid: 5718c80d803a27441ae0e2936ab76701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m14
+    second: {fileID: 2100000, guid: 892bbf0bf7edc164f9d674cc61d52b75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m15
+    second: {fileID: 2100000, guid: c0e9e57be19cfdf479e827205e37157a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m16
+    second: {fileID: 2100000, guid: bd71484dd9ca61c45a74484c34aeef0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m17
+    second: {fileID: 2100000, guid: 7363785caba86d446a9a345379d6a6b5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
